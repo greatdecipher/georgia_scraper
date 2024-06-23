@@ -1,0 +1,2 @@
+The requirments summary:
+1. this project needs to have a captcha solving embedded. The captcha solver is utilizing audio processing and will need ffmpeg to be installed to a user's machine.
