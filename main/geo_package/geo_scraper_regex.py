@@ -1,16 +1,3 @@
-"""Setup/Requirements"""
-# pip install playwright
-# $env:PLAYWRIGHT_BROWSERS_PATH="0"
-# playwright install chromium
-# pip install gspread
-# pip install oauth22client
-# pip install google-api-python-client
-# pip install beautifulsoup4
-# pip install pandas
-# pip install playwright-recaptcha
-# winget install ffmpeg - for the audio processing
-# pip install usaddress
-# pip install openai
 
 """Website uses version 2 recaptcha"""
 import os, sys
