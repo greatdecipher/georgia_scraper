@@ -15,16 +15,16 @@ https://drive.google.com/file/d/1JfutG1ZsAcibO2VOHN6D3Z7a9AZc1WbO/view?usp=shari
  ```
     main/config.py
  ```
-Inside this config file is the **SHEET_KEY**
+- Inside this config file is the **SHEET_KEY**
 
 
 3. Also note the dependencies needed, already at the **requirements.txt**:
 Main dependencies
-1. Playwright
-2. Gspread
-3. Playwright Recaptcha
-4. Pandas
-5. Python-google-api-client
+* Playwright
+* Gspread
+* Playwright Recaptcha
+* Pandas
+* Python-google-api-client
 
 ## Modules and Packages
 Highlighting all modules and packages that are inside the main directory:
