@@ -11,6 +11,12 @@ The final project was bundled into a standalone Desktop application using Pyinst
 To check the bundled application, you may need an access from the developer:
 https://drive.google.com/file/d/1JfutG1ZsAcibO2VOHN6D3Z7a9AZc1WbO/view?usp=sharing
 
+Config file needed 
+ ```
+    main/config.py
+ ```
+Inside this config file is the **SHEET_KEY**
+
 
 Also note the dependencies needed, already at the **requirements.txt**:
 Main dependencies
@@ -26,9 +32,9 @@ Highlighting all modules and packages that are inside the main directory:
  ```
     geo_scraper_regex.py
  ```
-- this consists of two classes: **Geoscraper()** and **ForeclosureDataUI()** 
-- **Geoscraper** has all the playwright commands
-- **ForeclosureDataUI** has all the PyQt5 UI functions. (We're using PyQt5 as   Desktop application UI, this is similar to Tkinter.)
+This consists of two classes: **Geoscraper()** and **ForeclosureDataUI()** 
+**Geoscraper** has all the playwright commands
+**ForeclosureDataUI** has all the PyQt5 UI functions. (We're using PyQt5 as   Desktop application UI, this is similar to Tkinter.)
 
 ```
     test_gsheets.py
@@ -102,13 +108,13 @@ This is a Desktop application for Windows, the developer utilizes Pyinstaller ve
 
 ## Project Demo
 The project demo is divided into 3 parts:
-### ~Part 1~
+### Part 1
 https://www.loom.com/share/d1bccf89d33840449392e4f5173b669f?sid=9773b65a-6bad-4eaf-8adc-839fbeaf2d2a
 
-### ~Part 2~
+### Part 2
 https://www.loom.com/share/0a145f36baf74d309753cbd5fa67f7f3?sid=cd2ebab4-b2be-4952-9067-a1865a325ff1
 
-### ~Part 3~
+### Part 3
 https://www.loom.com/share/2ef126eb332f46c282277dbed2c66b13?sid=8bc231de-35f4-45fc-95f2-d6f2b3aae1fb
 
 
