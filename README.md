@@ -8,17 +8,17 @@ The Developer utilized Playwright as an automation tool for scraping the site, a
 The final project was bundled into a standalone Desktop application using Pyinstaller.
 
 ## Requirements
-To check the bundled application, you may need an access from the developer:
+1. To check the bundled application, you may need an access from the developer:
 https://drive.google.com/file/d/1JfutG1ZsAcibO2VOHN6D3Z7a9AZc1WbO/view?usp=sharing
 
-Config file needed 
+2. Config file needed 
  ```
     main/config.py
  ```
 Inside this config file is the **SHEET_KEY**
 
 
-Also note the dependencies needed, already at the **requirements.txt**:
+3. Also note the dependencies needed, already at the **requirements.txt**:
 Main dependencies
 1. Playwright
 2. Gspread
