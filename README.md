@@ -1,4 +1,4 @@
-# Georgia Scraper V1
+# Georgia Scraper V210
 
 ## Description
 This project is about scraping a public notice site, specifically focused on Real state foreclosure data. The site has an implemented captcha that makes the scraping more challenging aside from slow loading and other dynamics.
@@ -17,8 +17,12 @@ https://drive.google.com/file/d/1JfutG1ZsAcibO2VOHN6D3Z7a9AZc1WbO/view?usp=shari
  ```
 - Inside this config file is the **SHEET_KEY**
 
+3. Public notice link
+- For the Public notice link, this needs to be hidden for security puposes and the developer and repo owner may be the one to provide this.
+    ![Hidden](main/screenshots/link_hidden.png)
 
-3. Also note the dependencies needed, already at the **requirements.txt**:
+
+4. Also note the dependencies needed, already at the **requirements.txt**:
 Main dependencies
 * Playwright
 * Gspread

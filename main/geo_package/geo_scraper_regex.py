@@ -30,10 +30,10 @@ logging.basicConfig(filemode = 'w', format='%(asctime)s - %(message)s',
 
 class GeoScrapper():
     def __init__(self, pages_view, start, end) -> None:
-        self.main_url = "https://www.georgiapublicnotice.com/(S(xarygueopfq1lvspzmk3hkzq))/default.aspx"
+        self.main_url = "developer will provide public notice link"
         self.page_num = pages_view
         self.process_name = "Foreclosure Data Extraction"
-        self.version = '1'
+        self.version = '2.1.0'
         self.color_text = {
             'green':'\033[0;32m',
             'blue':'\033[0;34m',
