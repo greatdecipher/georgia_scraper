@@ -122,7 +122,7 @@ https://www.loom.com/share/2ef126eb332f46c282277dbed2c66b13?sid=8bc231de-35f4-45
 Resulting Sheet file:
 https://docs.google.com/spreadsheets/d/1iGJoBdcFcIvhP3IaOhYq2E9lZEwYLEOq2lxAEHzE8q8/edit?usp=sharing
 
-![Teams](main/screenshots/result_foreclosure.png)
+![Foreclosure](main/screenshots/result_foreclosure.png)
 
 
 - These are the data captured from each Foreclosure notice from the Public notice page, we use **REGEX** to filter out words and strings that are necessary. A Data cleaning is being implemented in the GeoScraper class of methods.
